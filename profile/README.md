@@ -10,7 +10,7 @@
 
 | 星系 (Repositories) | 职责 (Responsibility) | 技术栈 (Tech Stack) |
 | :--- | :--- | :--- |
-| **[Lumia Core]([link](https://github.com/lumia-universe/lumia-core))** | 宇宙中枢：用户、档案与核心逻辑 | TBD |
+| **[Lumia Core](https://github.com/lumia-universe/lumia-core)** | 宇宙中枢：用户、档案与核心逻辑 | TBD |
 | **[Lumia Vision](link)** | 观测窗口：多端移动应用 | TBD |
 | **[Lumia Atlas](link)** | 坐标罗盘：地理围栏与 LBS 检索 | TBD |
 | **[Lumia Sentry](link)** | 救援哨兵：走失猫咪搜救网络 | TBD |
