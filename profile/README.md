@@ -2,7 +2,7 @@
 
 > "Connecting every stray heartbeat, lighting the path back home."
 
-Lumia Universe 是一个由技术驱动的宠物生态圈，旨在通过分布式力量、LBS 探索和 AI 识别，构建一个有猫家庭与流浪猫守护者共生的数字宇宙。
+
 
 ---
 
@@ -10,10 +10,10 @@ Lumia Universe 是一个由技术驱动的宠物生态圈，旨在通过分布�
 
 | 星系 (Repositories) | 职责 (Responsibility) | 技术栈 (Tech Stack) |
 | :--- | :--- | :--- |
-| **[Lumia Core](link)** | 宇宙中枢：用户、档案与核心逻辑 | Java 21 / Spring Boot 3 |
-| **[Lumia Vision](link)** | 观测窗口：多端移动应用 | Flutter / Dart |
-| **[Lumia Atlas](link)** | 坐标罗盘：地理围栏与 LBS 检索 | Go / PostGIS / Redis |
-| **[Lumia Sentry](link)** | 救援哨兵：走失猫咪搜救网络 | RabbitMQ / Push Service |
+| **[Lumia Core](link)** | 宇宙中枢：用户、档案与核心逻辑 | TBD |
+| **[Lumia Vision](link)** | 观测窗口：多端移动应用 | TBD |
+| **[Lumia Atlas](link)** | 坐标罗盘：地理围栏与 LBS 检索 | TBD |
+| **[Lumia Sentry](link)** | 救援哨兵：走失猫咪搜救网络 | TBD |
 
 ---
 
